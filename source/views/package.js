@@ -1,0 +1,11 @@
+enyo.depends(
+	"Main.js",
+	"Header.js",
+	"Button.js",
+	"Drupal.js",
+	"Login.js",
+	"Projects.js",
+	"Resume.js",
+	"Social.js",
+	"Team.js"
+);
